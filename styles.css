@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-image: url(background.png);
+  background-size: cover;
+  box-sizing: border-box;
+}
+h2 {
+  text-align: center;
+}
+h2 a {
+  background: none;
+  text-decoration: none;
+  color: #ffffff;
+  transition: 0.3s;
+}
+h2 a:hover {
+  color: black;
+}
+p {
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 15px;
+}
+.wd {
+  margin: 0;
+  padding: 0;
+  background-image: url(background.png);
+  background-size: cover;
+  box-sizing: border-box;
+}
+.wd h2 {
+  background: none;
+  margin-top: 50px;
+  text-align: center;
+}
+.wd h2 a {
+  background: none;
+  text-decoration: none;
+  color: #ffffff;
+  transition: 0.3s;
+}
+.wd h2 a:hover {
+  color: black;
+}
+.wd p {
+  text-align: center;
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 15px;
+  background: none;
+}
+.pg {
+  margin: 0;
+  padding: 0;
+  background-image: url(background.png);
+  background-size: cover;
+  box-sizing: border-box;
+}
+.pg h2 {
+  background: none;
+  margin-top: 50px;
+  text-align: center;
+}
+.pg h2 a {
+  background: none;
+  text-decoration: none;
+  color: #ffffff;
+  transition: 0.3s;
+}
+.pg h2 a:hover {
+  color: black;
+}
+.pg p {
+  text-align: center;
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 15px;
+  background: none;
+}
+.kd {
+  margin: 0;
+  padding: 0;
+  background-image: url(background.png);
+  background-size: cover;
+  box-sizing: border-box;
+}
+.kd h2 {
+  background: none;
+  margin-top: 50px;
+  text-align: center;
+}
+.kd h2 a {
+  background: none;
+  text-decoration: none;
+  color: #ffffff;
+  transition: 0.3s;
+}
+.kd h2 a:hover {
+  color: black;
+}
+.kd p {
+  text-align: center;
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 15px;
+  background: none;
+}
+.ab {
+  margin: 0;
+  padding: 0;
+  background-image: url(background.png);
+  background-size: cover;
+  box-sizing: border-box;
+}
+.ab h2 {
+  background: none;
+  margin-top: 50px;
+  text-align: center;
+}
+.ab h2 a {
+  background: none;
+  text-decoration: none;
+  color: #ffffff;
+  transition: 0.3s;
+}
+.ab h2 a:hover {
+  color: black;
+}
+.ab p {
+  text-align: center;
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 15px;
+  background: none;
+}

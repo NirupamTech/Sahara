@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-image: url(background.png);
+}
+body {
+  margin: 0;
+  padding: 0;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+}
+h1 {
+  margin: 0;
+  padding: 0;
+  margin-top: 50px;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  background: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-family: poppins;
+  color: #fff;
+  font-size: 4.5em;
+  text-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+h2 .animate {
+  margin: 0;
+  padding: 0;
+  color: chartreuse;
+}
+button {
+  margin: 0;
+  padding: 0;
+  margin-top: 350px;
+  margin-left: 660px;
+  width: 180px;
+  color: #000;
+  font-size: 12px;
+  padding: 10px 0;
+  background: chartreuse;
+  border: 0;
+  border-radius: 20px;
+  outline: none;
+  cursor: pointer;
+}
+button a {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: #000;
+  font-size: 15px;
+  transition: 0.3s;
+  background: none;
+}
+button a:hover {
+  color: #ffffff;
+}
+.ch {
+  margin: 0;
+  padding: 0;
+  background-repeat: no-repeat;
+  background: none;
+}
+.ch button {
+  margin: 0;
+  padding: 0;
+  margin-top: 10px;
+  margin-left: 660px;
+  width: 180px;
+  color: #000;
+  font-size: 12px;
+  padding: 10px 0;
+  background: chartreuse;
+  border: 0;
+  border-radius: 20px;
+  outline: none;
+  cursor: pointer;
+}
